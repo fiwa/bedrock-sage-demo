@@ -1,1 +1,1 @@
-# bedrock-sage-demo
+bedrock-sage-demo
